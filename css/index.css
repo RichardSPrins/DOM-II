@@ -243,6 +243,9 @@ img {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.home .content-section .hidden {
+  display: none;
+}
 .home .content-section .text-content {
   width: 48%;
   padding-right: 1%;
